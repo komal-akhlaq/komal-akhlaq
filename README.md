@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pikachu89)](https://git.io/streak-stats)
+
 # Data Scientist Profile Showcase
 
 Welcome to my GitHub repository! Here you'll find a collection of projects and code examples that showcase my skills and expertise as a data scientist. I am passionate about leveraging data-driven insights to solve real-world problems and drive business value. Below, you'll find a brief overview of my background and the projects included in this repository.
