@@ -1,13 +1,13 @@
 ```python
-                                  .",        
-         %B*\i`                     `~n$$$"       
-         B$$$$$v"               ';\%$$$$$$+       Komal Akhlaq
-         B$$$$$$$(          .`[)$$$$$$$$$$l       ----------
-         B$$$$$$$$[      '>n$$$$$$$$$$$$$M'       passion: Data Science, ML, AI & BI
-         B$$$$$$$$@    'j$$$$$$$$$$$$$$$c*        uptime: "22 years"
-         B$$$$$$$$$.  ,@$$$$$$$$$$$$$$z;          
-         B$$$$$$$$$. '@$$$$$$$$$$$){}'            languages: [Python, C++, Javascript, Java, 
-         B$$$$$$$$$. i$$$$$$$$$v_^                            Latex, Html, CSS, Assembly, SQL,
+                                        .&,        
+         %$*\i`                     `~n$$$"       
+         $$$$$$v"               ';\%$$$$$$+       Komal Akhlaq
+         $$$$$$$$(          .`[)$$$$$$$$$$l       ----------
+         $$$$$$$$$[      '>n$$$$$$$$$$$$$M'       passion: Data Science, ML, AI & BI
+         $$$$$$$$$@    'j$$$$$$$$$$$$$$$c*        uptime: "22 years"
+         $$$$$$$$$$.  ,@$$$$$$$$$$$$$$z;          
+         $$$$$$$$$$. '@$$$$$$$$$$$){}'            languages: [Python, C++, Javascript, Java, 
+         $$$$$$$$$$. i$$$$$$$$$v_^                            Latex, Html, CSS, Assembly, SQL,
          %$$$$$$$$$. <$$$$$&1,.                               Node.JS, Typescript]
          )$$$$$$$$$. i$$$$)'                      frameworks: [Tensorflow, PyTorch, React, Flask]
          .*$$$$$$$$. i$$$$$$;]".                  databases: [PostgreSQL, MongoDB, Oracle, MySQL]
