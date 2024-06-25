@@ -1,7 +1,5 @@
 ```python
-$ (base) github@komal-akhlaq %
-                                             
-                                       .",        
+                                  .",        
          %B*\i`                     `~n$$$"       
          B$$$$$v"               ';\%$$$$$$+       Komal Akhlaq
          B$$$$$$$(          .`[)$$$$$$$$$$l       ----------
@@ -22,5 +20,4 @@ $ (base) github@komal-akhlaq %
                                  `>r@$$$$$>       Linkedin: komal-akhlaq-b43651218/
                                     ."]*$%'       
                                         ''        
-
 ```
