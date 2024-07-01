@@ -12,7 +12,7 @@
          )$$$$$$$$$. i$$$$)'                      frameworks: [Tensorflow, PyTorch, React, Flask]
          .*$$$$$$$$. i$$$$$$;]".                  databases: [PostgreSQL, MongoDB, Oracle, MySQL]
           .1$$KOMAL. :AKHLAQ$$$@j!`               cloud: [MS Azure, Oracle, Heroku, Vercel, DigitalOcean]
-            '-&DATA. .SCIENTIST$$$$&),.           hobbies: Cooking & Reading
+            '-&DATA. .SCIENTIST$$$$&),.           
                .`",   'M$$$$$$$$$$$$$$@{.         
                        .+8$$$$$$$$$$$$$$%^        Contact:
                           ^?z$$$$$$$$$$$$%'       ----------
