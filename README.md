@@ -16,7 +16,7 @@
                .`",   'M$$$$$$$$$$$$$$@{.         
                        .+8$$$$$$$$$$$$$$%^        Contact:
                           ^?z$$$$$$$$$$$$%'       ----------
-                             .:(8$$$$$$$$$>       Email: l201278@lhr.nu.edu.pk
+                             .:(8$$$$$$$$$>       Email: komalakhlaq890@gmail.com
                                  `>r@$$$$$>       Linkedin: komal-akhlaq-b43651218/
                                     ."]*$%'       
                                         ''        
